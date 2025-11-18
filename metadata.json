@@ -1,0 +1,7 @@
+{
+  "name": "BioAuth FaceID",
+  "description": "Secure client-side facial recognition authentication system using Face-API.js. Features biometric login, registration, and liveness detection simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
